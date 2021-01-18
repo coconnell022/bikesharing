@@ -1,6 +1,6 @@
 # bikesharing
 
-[link to tableau public dashboard](LINK GOES HERE)
+[link to tableau public dashboard](https://public.tableau.com/views/BikeSharingAnalysis_16109483021750/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 ## Overview of the Statistical Analysis
 
@@ -44,7 +44,7 @@ The visualization above demonstrates a similar breakdown but adds an additional 
 
 As shown in visualization above, an analysis of user type by gender and weekday is displayed. Overall, there are about 1.5 million more subscriber rides than customer rides during the month of August. Of the 2 user types and genders, male subscribers are more likely to use the bikes throughout the week. It is also important to note that the most common day for customers to use the bikes are on the weekend, indicating that they may be more likely tourists. Another important takeaway from this visualization is that for those who mark the unknown gender, they are more likely to be customers than subscribers, which indicates that they are possibly tourists who are using the bike just 1 or 2 times and do not wish to submit their personal information. 
 
-### Top starting and stopping locations
+### Top starting and ending locations
 
 ![alt text](https://github.com/coconnell022/bikesharing/blob/main/Viz/Top%20Starting%20Locations.png?raw=true)
 
