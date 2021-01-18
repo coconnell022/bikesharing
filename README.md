@@ -1,6 +1,6 @@
 # bikesharing
 
-[link to tableau public dashboard](https://public.tableau.com/views/BikeSharingAnalysis_16109483021750/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+[LINK TO TABLEAU PUBLIC DASHBOARD](https://public.tableau.com/views/BikeSharingAnalysis_16109483021750/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 ## Overview of the Statistical Analysis
 
