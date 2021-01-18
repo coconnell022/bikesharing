@@ -3,13 +3,16 @@
 <!-- build 20204.20.1106.0321                               -->
 <workbook source-build='2020.4.0 (20204.20.1106.0321)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
   <document-format-change-manifest>
+    <AutoCreateAndUpdateDSDPhoneLayouts />
     <MapboxVectorStylesAndLayers />
     <_.fcp.MarkAnimation.true...MarkAnimation />
     <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
     <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
     <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <_.fcp.SetMembershipControl.true...SetMembershipControl />
     <SheetIdentifierTracking />
     <WindowsPersistSimpleIdentifiers />
+    <WorksheetBackgroundTransparency />
   </document-format-change-manifest>
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
@@ -1320,7 +1323,93 @@
       <simple-id uuid='{94AA5FAC-6EC1-46CF-8551-7EADCC787915}' />
     </worksheet>
   </worksheets>
-  <windows source-height='48'>
+  <dashboards>
+    <dashboard name='Dashboard 1'>
+      <style />
+      <size maxheight='800' maxwidth='1000' minheight='800' minwidth='1000' />
+      <zones>
+        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
+          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='8' param='horz' w='98400' x='800' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='98000' id='6' w='98400' x='800' y='1000'>
+              <zone h='98000' id='3' name='Number of Rides' w='98400' x='800' y='1000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+        <zone h='33250' id='9' name='Gender Breakdown' w='33300' x='20300' y='1000' />
+        <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='7500' id='10' name='Gender Breakdown' pane-specification-id='0' param='[federated.0tf1haq1gydhs61foct2r0r4qx3o].[none:Calculation_164170281086738433:nk]' show-title='false' w='14000' x='53600' y='1000' />
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='2' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='1' param='vert' w='84000' x='8000' y='8000' />
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{45A4A70E-C6BF-43B5-9B27-8099D1F59ABF}' />
+    </dashboard>
+    <dashboard name='Story 1' type='storyboard'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Bike Sharing Analysis</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <style />
+      <size maxheight='964' maxwidth='1016' minheight='964' minwidth='1016' />
+      <zones>
+        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='2' w='100000' x='0' y='0'>
+          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98340' id='1' param='vert' removable='false' w='98426' x='787' y='830'>
+            <zone _.fcp.SetMembershipControl.false...type='title' _.fcp.SetMembershipControl.true...type-v2='title' h='3423' id='3' w='98426' x='787' y='830' />
+            <zone _.fcp.SetMembershipControl.false...type='flipboard-nav' _.fcp.SetMembershipControl.true...type-v2='flipboard-nav' h='10477' id='4' is-fixed='true' paired-zone-id='5' removable='false' w='98426' x='787' y='4253' />
+            <zone _.fcp.SetMembershipControl.false...type='flipboard' _.fcp.SetMembershipControl.true...type-v2='flipboard' h='84440' id='5' paired-zone-id='4' removable='false' w='98426' x='787' y='14730'>
+              <flipboard active-id='2' nav-type='caption' show-nav-arrows='true'>
+                <story-points>
+                  <story-point caption='Overview' captured-sheet='Dashboard 1' id='1' />
+                  <story-point caption='Trip Durations' captured-sheet='' id='2' />
+                </story-points>
+              </flipboard>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+        <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' flipboard-zone-id='5' forceUpdate='true' h='17635' hidden='true' id='6' story-point-id='1' w='56988' x='3740' y='37033'>
+          <formatted-text>
+            <run fontalignment='0' fontcolor='#000000' fontname='Times' fontsize='12'>The purpose of this project is to create worksheets, dashboards, and stories from New York City bike-sharing data using Tableau to present a business proposal for a bike-sharing company. The dataset used is a Citi Bike CSV file of all bike-sharing data from the month of August in 2019 that contains information like user type, gender, birth year, and starting and stopping points/times. The data was analyzed to provide breakdowns and visualizations that demonstrate trends and successful results of Citi Bike in NYC. The objective is to provide a comprehensive bike trip analysis that will convince investors to partake a bike-sharing program in Des Moines. Below shows a breakdown of the gender and total number of rides from this data set.</run>
+          </formatted-text>
+        </zone>
+      </zones>
+      <simple-id uuid='{33B5B4E4-CCBF-4C57-A6F2-DC2F62FA5CC3}' />
+    </dashboard>
+  </dashboards>
+  <windows source-height='30'>
     <window class='worksheet' name='Number of Rides'>
       <cards>
         <edge name='left'>
@@ -1546,7 +1635,7 @@
       </cards>
       <simple-id uuid='{19EFCC6F-4683-4B00-8EF5-7F9DE1115F3E}' />
     </window>
-    <window class='worksheet' maximized='true' name='Top Ending Locations'>
+    <window class='worksheet' name='Top Ending Locations'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1631,6 +1720,19 @@
         </edge>
       </cards>
       <simple-id uuid='{6E4AD3D2-24D5-4C4C-A6FB-3277DF65CEFD}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Story 1'>
+      <viewpoints />
+      <active id='4' />
+      <simple-id uuid='{DACDE179-DAE0-4B3D-9025-DD41AC49AAF9}' />
+    </window>
+    <window class='dashboard' name='Dashboard 1'>
+      <viewpoints>
+        <viewpoint name='Gender Breakdown' />
+        <viewpoint name='Number of Rides' />
+      </viewpoints>
+      <active id='-1' />
+      <simple-id uuid='{276686D5-45A2-45FD-B900-423ACAE81386}' />
     </window>
   </windows>
 </workbook>

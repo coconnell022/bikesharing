@@ -18,10 +18,6 @@ The purpose of this project is to create worksheets, dashboards, and stories fro
 
 ## Results
 
-<div class="text-blue mb-2">
-### Duration of bike rides for all riders and genders
-</div>
-
 ### Duration of bike rides for all riders and genders
 
 ![alt text](https://github.com/coconnell022/bikesharing/blob/main/Viz/Checkout%20Times%20for%20Users.png?raw=true)
