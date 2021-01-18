@@ -58,7 +58,7 @@ The map above that demonstrates top ending locations is very similar to the stop
 
 Overall, it would be a great idea to open and invest in a bike-sharing company in Des Moines. As shown in the analysis and visualizations provided, there were over 2.3 million Citi Bike rides taken by all types of people during August 2019. Of every type of user, the most common is a local male subscriber in his 20s to 40s who lives in one of the higher populated areas of the city. Of all rides, subscribers make up the majority compared to customers, therefore it is likely that people who live in the area will sign up for monthly subscriptions so that they can utilize the bike for daily commutes; whereas customers are more likely to be tourists using the bike for one time rides on their visit. A bike-sharing company will definitely be successful with the proper marketing strategies in a urban setting amongst tourists, locals, and people of all ages and genders. 
 
-### Two additional visualizations using the given data set
+### Two additional reccomended visualizations using the given data set
 
 Two additional visualizations that can be done for future analysis using this data set are user trips by age and user trips by gender as shown below. Both can be used for a deeper analysis but indicate that the majority of users are adult male subscribers.
 
