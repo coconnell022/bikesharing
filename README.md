@@ -8,7 +8,7 @@ The purpose of this project is to create worksheets, dashboards, and stories fro
 
 <p align="center">
     <img src="https://github.com/coconnell022/bikesharing/blob/main/Viz/Number%20of%20Rides.png?raw=true" height = "250" width="350">
-    <img src="https://github.com/coconnell022/bikesharing/blob/main/Viz/Gender%20Breakdown.png?raw=true" height = "250" width="400">
+    <img src="https://github.com/coconnell022/bikesharing/blob/main/Viz/Gender%20Breakdown.png?raw=true" height = "250" width="350">
 </p>
 
 
@@ -17,6 +17,10 @@ The purpose of this project is to create worksheets, dashboards, and stories fro
         - Software: VS Code, Tableau, Python, Jupyter Notebook
 
 ## Results
+
+<div class="text-blue mb-2">
+### Duration of bike rides for all riders and genders
+</div>
 
 ### Duration of bike rides for all riders and genders
 
