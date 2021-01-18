@@ -6,8 +6,10 @@
 
 The purpose of this project is to create worksheets, dashboards, and stories from New York City bike-sharing data using Tableau to present a business proposal for a bike-sharing company. The dataset used is a Citi Bike CSV file of all bike-sharing data from the month of August in 2019 that contains information like user type, gender, birth year, and starting and stopping points/times. The data was analyzed to provide breakdowns and visualizations that demonstrate trends and successful results of Citi Bike in NYC. The objective is to provide a comprehensive bike trip analysis that will convince investors to partake a bike-sharing program in Des Moines. Below shows a breakdown of the gender and total number of rides from this data set.
 
-<img src="https://github.com/coconnell022/bikesharing/blob/main/Viz/Number%20of%20Rides.png?raw=true" align = "left" height = "250" width="350">
-<img src="https://github.com/coconnell022/bikesharing/blob/main/Viz/Gender%20Breakdown.png?raw=true" align = "right" height = "250" width="400">
+<a href="url"><img src="https://github.com/coconnell022/bikesharing/blob/main/Viz/Number%20of%20Rides.png?raw=true" align = "left" height = "250" width="350"></a>
+<a href="url"><img src="https://github.com/coconnell022/bikesharing/blob/main/Viz/Gender%20Breakdown.png?raw=true" align = "right" height = "250" width="400"></a>
+
+
 
     Resources
         - Data Sources: 201908-citibike-tripdata.csv
